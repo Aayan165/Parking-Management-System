@@ -35,4 +35,17 @@ This system streamlines parking operations by providing a complete backend solut
 
 ---
 
-## 📁 File Structure
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Aayan165/Parking-Management-System.git
+   ```
+2. Compile the code using a C compiler.
+3. Run the executable to start managing parking operations.
+
+## Contribution
+Contributions are welcome! Feel free to open issues or submit pull requests to improve this project.
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
